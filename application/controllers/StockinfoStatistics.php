@@ -24,16 +24,19 @@ class StockinfoStatistics extends CI_Controller {
 		$StatisticsData = $this->StatisticsData->Month();
 		echo json_encode($StatisticsData);
 	}
+
 	public function ArticleLoan(){
 		//$Month = $this->input->get('Month');
 		$this->load->model('Statistics_model', 'StatisticsData');
 		$ArticleLoan = $this->StatisticsData->ArticleLoan();
 		echo json_encode($ArticleLoan);
 	}
+
 	public function TypeLoan(){
 		//$Month = $this->input->get('Month');
 		$this->load->model('Statistics_model', 'StatisticsData');
 		$TypeLoan = $this->StatisticsData->TypeLoan();
 		echo json_encode($TypeLoan);
 	}
+	
 }

@@ -6,10 +6,10 @@
 
 		"host": "118.163.216.126",
 		"username": "root",  // or null for anonymous login
-		"password": "",
-		"path": "",
+		"password": "qweASD159",
+		"path": "/web",
 
-		"upload_on_save": false, // set *false* if you do not want to upload on save!
+		"upload_on_save": true, // set *false* if you do not want to upload on save!
 
 		// "port": 21,
 		// "tls": false,

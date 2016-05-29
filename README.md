@@ -7,3 +7,8 @@
 
 # 整合狀況
 	* 統計API 
+
+#
+	http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png
+
+![Alt text](/1.jpg)
