@@ -6,9 +6,10 @@
 [Live Demo](http://vot.topweb.io/)
 
 # 整合狀況
-	* 統計API 
+	* 月份設備借出統計
+	* 設備(Name)租借統計
+	* 設備(Type)租借統計
 
-#
-	http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png
+# 統計 API 未完成
+	* 單一設備歷史紀錄統計
 
-![Alt text](/1.png)
